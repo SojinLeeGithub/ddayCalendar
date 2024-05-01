@@ -10,6 +10,4 @@ It was also interesting that the effect of snow on the background was also an ef
 ![image](https://github.com/SojinLeeGithub/ddayCalendar/assets/159878967/638a3eb9-8aa5-4b22-a816-25c140c7ca62)
 
 And at the bottom of the page, there is a button to play a song. It was interesting because it was my first time inserting a song into a web page.🥰🎶🎼🎵
-![image](https://github.com/SojinLeeGithub/ddayCalendar/assets/159878967/8f277156-e7bc-4b90-8fd6-7ab2ecfa7a3b)
-
-
+![image](https://github.com/SojinLeeGithub/ddayCalendar/assets/159878967/e8d63525-f9b4-40de-bed3-b7a579bd4e1a)
